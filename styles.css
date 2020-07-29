@@ -9,9 +9,11 @@ body {
 }
 
 
-#tag{
+#landing-header{
+	height:80%;
+	width:80%;
 	color:black;
-	height: 300px;
+	font-size: 100%;
 }
 
 .slideshow { 
