@@ -8,10 +8,6 @@ body {
 	background-color: #000;
 }
 
-h1 {
-	height:400px;
-	width:1000px;
-}
 
 #landing-header {
   z-index: 1;
@@ -21,7 +17,9 @@ h1 {
 }
 
 #landing-header h1 {
-  color: #fff;
+  color: black;
+	height:400px;
+	width:1000px;
 }
 
 .slideshow { 
