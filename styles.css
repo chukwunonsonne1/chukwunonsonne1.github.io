@@ -16,8 +16,9 @@ body {
 }
 
 #landing-header h1 {
-  color: black;
+  color: white;
 	 opacity: 0.5;
+	font-size:100px;
 }
 #clock {
   font-family: 'Orbitron', sans-serif;
