@@ -3,13 +3,14 @@
   padding:0px;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
+
 body {
 	background-color: #000;
+}
+
+h1 {
+	height:50%;
+	width:50%;
 }
 
 #landing-header {
